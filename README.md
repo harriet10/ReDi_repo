@@ -1,1 +1,3 @@
-# ReDi_repo
+# ReDiSchool_repo
+
+Designated for classwork
